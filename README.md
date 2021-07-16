@@ -1,5 +1,5 @@
-# Launchpad
-### A ready-to-go express server for faster backend production.
+# Git-Finder
+<!-- ### A ready-to-go express server for faster backend production.
 
 
 ## <br>Quick launch:
@@ -82,4 +82,4 @@ First, a React application was initialized with 'create-react-app' in a new 'cli
 | ----------- | ----------- |
 | [Brad Traversy](https://www.traversymedia.com)      | Arguably once of the best web dev resources on the internet.|
 | [Nodemon](https://nodemon.io)   | Official Docs|
-| [Concurrently](https://github.com/kimmobrunfeldt/concurrently)   | Official Docs|
+| [Concurrently](https://github.com/kimmobrunfeldt/concurrently)   | Official Docs| -->
